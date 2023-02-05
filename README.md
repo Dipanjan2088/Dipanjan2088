@@ -1,4 +1,4 @@
-[![MasterHead](https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif)](https://github.com/Dipanjan2088)
+[![MasterHead](https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&height=500&name=AI%20and%20Deep%20Learning.gif)](https://github.com/Dipanjan2088)
 <h1 align="center">Hi 👋, I'm Dipanjan Mahata</h1>
  
 
@@ -9,9 +9,9 @@
 
 
 <img align="right" alt="Coding" width="300" src="https://uploads0.jovo.to/idea_attachments/840592/homework-dribbble_bigger.gif?1544706789">
-- 🌱 I’m currently learning **DBMS, Full stack**
+- 🌱 I’m currently learning **DBMS,Full stack**
 
-- 💬 Ask me about **Python, C, Java, HTML, CSS, JavaSCript**
+- 💬 Ask me about **Python,C,Java,HTML,CSS,JavaSCript**
 
 - 📫 How to reach me **dipanjanmahata13@gmail.com**
 
