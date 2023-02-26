@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dipanjan mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipanjan mahata" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dipanjan mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanjan mahata" height="30" width="40" /></a>
-<a href="https://fb.com/dipanjan mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipanjan mahata" height="30" width="40" /></a>
-<a href="https://instagram.com/dipanjan mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanjan mahata" height="30" width="40" /></a>
+<a href="https://mobile.twitter.com/DipanjanMahata4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipanjan mahata" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dipanjan-mahata-30aa90222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanjan mahata" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dipanjan.mahata.5?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipanjan mahata" height="30" width="40" /></a>
+<a href="https://instagram.com/dipanjanmahata?igshid=NTE5MzUyOTU=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanjan mahata" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
